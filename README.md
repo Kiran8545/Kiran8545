@@ -18,7 +18,7 @@
   **React, JavaScript, REST APIs, AWS, CI/CD, and cloud-native development**
 
 - 📫 How to reach me  
-  **kothasaikiran3@gmail.com**
+  **kirankotha8545@gmail.com**
 
 - 📄 Know about my experience  
   [LinkedIn Profile](https://www.linkedin.com/in/sai-kiran-kotha-a52576212/)
